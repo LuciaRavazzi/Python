@@ -5,6 +5,7 @@ The following projects are stored:
 <ul>
   <li> <b> PaperRockScissor</b>: it's the implementation of the traditional game. This project is useful to use the try-except commands. </li>
   <li> <b> QRCode</b>: I used the qrcode library to create some QR code and figure out what this. </li>
+  <li> <b> Stumpy library</b>: it' s a library for computing the matrix profile. It supports also some approximations to speed up the computation. </li>
 </ul>
 
 
