@@ -1,9 +1,9 @@
-
-import threading # new in python 3
+import threading  # new in python 3
 import time
 
 
-#--- Threading
+# --- Threading
+
 
 def func(y):
     print("Ran \n")
@@ -12,9 +12,10 @@ def func(y):
     time.sleep(y)
     print("Now done \n")
 
-x = threading.Thread(target = func,   # function to thread.
-                     args = (1,)      # arguments of the function.
-                     )
+
+x = threading.Thread(
+    target=func, args=(1,)  # function to thread.  # arguments of the function.
+)
 
 # The program starts with the function because it is defined in x.
 x.start()
@@ -29,5 +30,3 @@ print("finally \n ")
 # On the basis of the sleep time, the commands are executed not in the sequential
 # and original order. I mean, this occurs because the commands don't follow each other
 # in the reasoning.
-
-
