@@ -40,3 +40,9 @@ repos:
       language: python
       args: ["--filter-files"]
       files: \.py$
+
+-   repo: https://github.com/econchick/interrogate
+    rev: 1.5.0
+    hooks:
+    - id: interrogate
+      args: [-vv, --fail-under=80]

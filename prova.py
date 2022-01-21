@@ -1,9 +1,19 @@
+"""
+Vediamo se va meglio
+"""
+
 import math
 import sys
 
+"""
+Funzione a caso
+"""
+
 
 def foo():
-    pass
+    """
+    foo function
+    """
 
     try:
         import multiprocessing
@@ -14,5 +24,12 @@ def foo():
     return math.pi
 
 
+"""
+Magari adesso gli piace
+"""
 if name == "__main__":
+    """
+    Vediamo se funziona questa funzione foo
+    """
+
     foo()
