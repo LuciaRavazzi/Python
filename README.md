@@ -1,6 +1,6 @@
 # Python projects
 
-This repository is designed to collect several projects in order to acquire knowledge about python language.
+This repository is designed to collect several projects in order to acquire some expertise about python language.
 The following projects are stored:
 <ul>
   <li> CPU_Threading: manage CPU's threads. </li>
