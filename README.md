@@ -9,6 +9,8 @@ The following projects are stored:
   <li> <b> Stumpy library</b>: it' s a library for computing the matrix profile. It supports also some approximations to speed up the computation. </li>
 </ul>
 
+
+
 <div align="center">
-    <img align = "right" src="python.png" width="350px"</img>
+    <img src="python.png" width="350px"</img>
 </div>
