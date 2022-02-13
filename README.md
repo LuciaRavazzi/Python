@@ -13,6 +13,8 @@ The following projects are stored:
   <li> <b> QRCode</b>: I used the qrcode library to create some QR code and figure out what this. </li>
   <li> <b> Stumpy library</b>: it' s a library for computing the matrix profile. It supports also some approximations to speed up the computation. </li>
   <li> Weather-API: openWeather API to get weather information. </li>
+  <li> Browser: create a browser and embed a webpage. </li>
+  <li> Whatsapp: send a programmed message through whatsapp. </li>
 </ul>
 
 
