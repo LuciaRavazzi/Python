@@ -15,7 +15,6 @@ The following projects are stored:
   <li> Weather-API: openWeather API to get weather information. </li>
   <li> Browser: create a browser and embed a webpage. </li>
   <li> Whatsapp: send a programmed message through whatsapp. </li>
-  <li> ABC: abc module of python.</li>
 </ul>
 
 
